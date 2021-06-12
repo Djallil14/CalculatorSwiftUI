@@ -1,3 +1,4 @@
+![Simulator Screen Recording - iPhone 12 - 2021-06-11 at 21 01 02](https://user-images.githubusercontent.com/82174673/121760336-38e27f00-caf8-11eb-912b-123152de0443.gif)
 # CalculatorSwiftUI
 Hey Everyone ! 🖐
 this is a basic calculator made for iOS 15 in SwiftUI. everything should work on iOS 14 but the design would not be the same.
@@ -10,3 +11,4 @@ the layout should adapt for iPhone and iPad, try it out 🙌
 <img width="417" alt="Screen Shot 2021-06-11 at 7 52 58 PM" src="https://user-images.githubusercontent.com/82174673/121758496-84dcf600-caef-11eb-97ec-a58756c6dd5d.png">
 <img width="417" alt="Screen Shot 2021-06-11 at 7 53 11 PM" src="https://user-images.githubusercontent.com/82174673/121758502-89091380-caef-11eb-8619-5d7dcb34be26.png">
 <img width="428" alt="Screen Shot 2021-06-11 at 7 53 26 PM" src="https://user-images.githubusercontent.com/82174673/121758504-8a3a4080-caef-11eb-9634-83c05d4e15e5.png">
+#SwiftUI
